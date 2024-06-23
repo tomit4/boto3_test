@@ -96,9 +96,11 @@ if __name__ == "__main__":
     #  print('bucket creation failed...')
 
     # Calling upload_file()
-    #  result_upload = upload_file("./test.jpg",
-    #  "phlint-app-s3-test-create",
-    #  "test.jpg")
+    # NOTE: Prepending testdir/ to the file creates the folder if it doesn't exist.
+    # Then the file is uploaded inside that folder
+    #  NOTE: If the folder does exist, it simply uploads the file to that folder
+    #  result_upload = upload_file("./test.jpg", "phlint-app-s3-test",
+    #  "testdir/test.jpg")
     #  if (result_upload):
     #  print("bucket file uploaded successfully!")
     #  else:

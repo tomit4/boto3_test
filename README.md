@@ -21,6 +21,7 @@ This repository contains very basic source code and documentation on how to util
 - [AWS S3 Getting Started](https://aws.amazon.com/s3/getting-started/)
 - [Quick Start Youtube Tutorial](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 - [Boto's Official Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+- [Stack Overflow On Creating S3 Folders](https://stackoverflow.com/questions/1939743/amazon-s3-boto-how-to-create-a-folder)
 
 **QUICKNOTES:**
 
