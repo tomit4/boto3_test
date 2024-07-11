@@ -26,7 +26,7 @@ This repository contains very basic source code and documentation on how to util
 **QUICKNOTES:**
 
 ```sh
-python3 -m venv venv
+python3 -m venv env
 ```
 
 Activate the the virtual environment:
